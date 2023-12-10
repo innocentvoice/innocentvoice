@@ -5,7 +5,8 @@
 - Manga, light novel.
 
 ## My Specs
-- Windows 10 Enterprise 21H2
+- Windows 11 Enterprise 22H2
+- Manjaro Linux
 - CPU : AMD Ryzen 7 5800X (3.8 GHz, 8 Cores, 16 Threads)
 - RAM : Corsair Vengeance LPX 32GB (2x16GB) 5200MHZ DDR5
 - GPU : GIGABYTE GeForce RTX 2060 6GB
